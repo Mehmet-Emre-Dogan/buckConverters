@@ -6,5 +6,7 @@
 
 <div align="center">
 <p>Schematic</p>
+ 
 ![schematic](./LM2596_buck_5/images/sch.png)
+ 
  </div>
